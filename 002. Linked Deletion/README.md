@@ -1,4 +1,4 @@
-<h2  ><a href="https://www.geeksforgeeks.org/deletion-in-linked-list/" > Deletion Operations in Linked List 
+<h2  ><a href="https://www.geeksforgeeks.org/deletion-in-linked-list/" > 002. Deletion Operations in Linked List 
 </a> </h2>
 <p>Solution for deletion operations in a linked list. This program provides three deletion operations:</p>
 
