@@ -20,7 +20,7 @@ You are required to implement the following functions:
 
 - `deleteAtBegining`: O(1) time and O(1) space.
 - `deleteAtEnd`: O(N) time and O(1) space.
-- `deleteAtMiddle`: O(N) time and O(1) space.
+- `deleteAtMiddle`: O(N/2) time and O(1) space.
 
 <h3>Constraints:</h3>
 
