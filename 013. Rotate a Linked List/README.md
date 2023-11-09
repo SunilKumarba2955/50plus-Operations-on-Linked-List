@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1">013. Remove duplicates from an unsorted linked list</a></h2><h3>Medium</h3><hr><p>Given a singly linked list of size N. The task is to left-shift the linked list by k nodes, where k is a given positive integer smaller than or equal to length of the linked list.</p>
+<h2><a href="https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1">013.Rotate a Linked List</a></h2><h3>Medium</h3><hr><p>Given a singly linked list of size N. The task is to left-shift the linked list by k nodes, where k is a given positive integer smaller than or equal to length of the linked list.</p>
 
 <p><strong class="example">Example 1:</strong></p>
 <pre>
