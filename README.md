@@ -16,6 +16,7 @@
 <li> <a href="https://github.com/SunilKumarba2955/50plus-Operations-on-Linked-List/tree/main/013.%20Rotate%20a%20Linked%20List" > 013. Rotate a Linked List</a> - Medium</li>
 <li> <a href="https://github.com/SunilKumarba2955/50plus-Operations-on-Linked-List/tree/main/014.%20Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size" > 014. Reverse a Linked List in groups of given size</a> - Medium</li>
 <li> <a href="https://github.com/SunilKumarba2955/50plus-Operations-on-Linked-List/tree/main/015.%20Delete%20nodes%20having%20greater%20value%20on%20right" > 015. Delete nodes having greater value on right</a> - Medium</li>
+<li> <a href="https://github.com/SunilKumarba2955/50plus-Operations-on-Linked-List/tree/main/016.%20Compare%20two%20linked%20lists" > 016. Compare two linked lists </a> - Easy</li>
 
 
 
